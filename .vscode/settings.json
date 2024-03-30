@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "memory.h": "c",
+        "synchronization.h": "c",
+        "time.h": "c",
+        "stdio.h": "c",
+        "main.h": "c",
+        "apsignal.h": "c",
+        "stats.h": "c"
+    }
+}

@@ -1,0 +1,30 @@
+Process Statistics:
+Client 1 received 1 operation(s)!.
+Client 2 received 1 operation(s)!.
+Intermediary 1 prepared 1 operation(s)!.
+Intermediary 2 prepared 1 operation(s)!.
+Enterprise 2 executed 1 operation(s)!.
+Enterprise 3 executed 1 operation(s)!.
+
+Request:0
+Status: E 
+Client id: 1
+Intermediary id: 1
+Enterprise id: 2
+Start time: 2023-05-22 19:10:27
+Client time: 2023-05-22 19:10:27
+Intermediary time: 2023-05-22 19:10:27
+Enterprise time: 2023-05-22 19:10:27
+Total time: 0.000000
+
+Request:1
+Status: E 
+Client id: 2
+Intermediary id: 2
+Enterprise id: 3
+Start time: 2023-05-22 19:10:29
+Client time: 2023-05-22 19:10:29
+Intermediary time: 2023-05-22 19:10:29
+Enterprise time: 2023-05-22 19:10:29
+Total time: 0.000000
+
